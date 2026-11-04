@@ -1,0 +1,12 @@
+{
+  "version": "1.0.14",
+  "build": 15,
+  "date": "2026-11-04",
+  "notes": ["Las notas por episodio salen enseguida aunque MyAnimeList no responda"],
+  "windows": {"url": "https://raw.githubusercontent.com/tlosrod672/cineapp-releases/main/CineApp-Update-1.0.14.exe", "size": 25757900},
+  "android": {
+    "arm64-v8a": {"url": "https://raw.githubusercontent.com/tlosrod672/cineapp-releases/main/CineApp-1.0.14-arm64-v8a.apk", "size": 33832924},
+    "armeabi-v7a": {"url": "https://raw.githubusercontent.com/tlosrod672/cineapp-releases/main/CineApp-1.0.14-armeabi-v7a.apk", "size": 30670268},
+    "x86_64": {"url": "https://raw.githubusercontent.com/tlosrod672/cineapp-releases/main/CineApp-1.0.14-x86_64.apk", "size": 38770510}
+  }
+}
